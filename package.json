@@ -1,7 +1,7 @@
 {
-  "name": "itoolkit",
+  "name": "@eradani-inc/itoolkit",
   "version": "0.1.6",
-  "description": "Wrapper over XMLSERVICE for access to all things IBM i",
+  "description": "XMLSERVICE connector for IBM i resources",
   "main": "lib/itoolkit.js",
   "directories": {
     "lib": "lib",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IBM/nodejs-itoolkit.git"
+    "url": "git+ssh://git@github.com/eradani-inc/nodejs-itoolkit.git"
   },
   "keywords": [
     "ibmi",
@@ -22,7 +22,7 @@
   ],
   "author": "IBM",
   "license": "MIT",
-  "homepage": "https://github.com/IBM/nodejs-itoolkit",
+  "homepage": "https://github.com/eradani-inc/nodejs-itoolkit",
   "contributors": [
     {
       "name": "Xu Meng",
@@ -34,6 +34,14 @@
     {
       "name": "Aaron Bartell",
       "email": "aaronbartell@gmail.com"
+    },
+    {
+      "name": "David Romo",
+      "email": "dave@eradani.com"
+    },
+    {
+      "name": "Aaron Magid",
+      "email": "aaron@eradani.com"
     }
   ],
   "devDependencies": {
